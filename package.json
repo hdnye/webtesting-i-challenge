@@ -1,0 +1,16 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hdnye/webtesting-i-challenge.git",
+  "author": "Heather Nye <heatherdnye@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },  
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
